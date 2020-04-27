@@ -17,6 +17,5 @@ style that O'Reilly has switched to.
 
 The early release version [is available online from the
 publisher](http://shop.oreilly.com/product/0636920048633.do) today,
-and the [print
-version](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024)
-should start shipping in early June.
+and the [print version](https://amzn.to/2KA44Vz) should start shipping
+in early June.
