@@ -23,6 +23,8 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+google_analytics: UA-44018147-1
+
 plugins:
   - jekyll-feed
   - jekyll-gist
