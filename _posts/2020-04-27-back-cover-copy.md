@@ -2,6 +2,7 @@
 layout: post
 title: Back Cover Copy for JSTDG7
 date: 2020-04-27 23:00:00
+excerpt_separator: <!--more-->
 ---
 
 Here's the marketing copy I wrote for the back cover of the book:
@@ -15,7 +16,7 @@ the 2020 version of JavaScript, and new chapters cover classes,
 modules, iterators, generators, Promises, async/await, and
 metaprogramming. You’ll find illuminating and engaging example code
 throughout.
-
+<!--more-->
 This book is for programmers who want to learn JavaScript and for web
 developers who want to take their understanding and mastery to the
 next level. It begins by explaining the JavaScript language itself, in
