@@ -128,6 +128,13 @@ body {
   > *:last-child {
     margin-bottom: 0.5rem;
   }
+
+  .image-ad {
+      display:none;
+  }
+  .text-ad {
+      display:block;
+  }
 }
 
 /* -----------------------------------------------------------
@@ -156,6 +163,13 @@ body {
 
     > *:last-child {
       margin-bottom: 0;
+    }
+
+    .image-ad {
+        display:block;
+    }
+    .text-ad {
+        display:none;
     }
   }
 
