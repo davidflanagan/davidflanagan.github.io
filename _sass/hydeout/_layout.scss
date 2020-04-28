@@ -129,11 +129,8 @@ body {
     margin-bottom: 0.5rem;
   }
 
-  .image-ad {
+  .book-ad img {
       display:none;
-  }
-  .text-ad {
-      display:block;
   }
 }
 
@@ -165,11 +162,11 @@ body {
       margin-bottom: 0;
     }
 
-    .image-ad {
-        display:block;
+    .book-ad {
+        margin:15px 0 25px 0;
     }
-    .text-ad {
-        display:none;
+    .book-ad img {
+        display:block;
     }
   }
 
