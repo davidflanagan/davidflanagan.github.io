@@ -48,7 +48,7 @@ Tesla has a problem solving culture. We find solutions and make
 crisp decisions, but also pride ourselves on being able to pivot
 quickly when (to choose a relevant recent example) global supply chain
 issues mean that products need design and firmware and software
-modifications in order to prevent he manufacturing lines from shutting
+modifications in order to prevent the manufacturing lines from shutting
 down.
 
 We are nimble without (and I cannot stress this enough) being
